@@ -1,0 +1,70 @@
+body {
+    margin: 165px 140px ;
+    background-image: url(https://images.unsplash.com/photo-1525973132219-a04334a76080?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1385&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 170px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.first {
+    width: 200px;
+    padding: 30px 10px 5px 10px;
+    background: rgba(255, 255, 255, 0.12);
+    border-radius: 5px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(15.6px);
+    -webkit-backdrop-filter: blur(15.6px);
+}
+
+.second {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.🏀{
+    margin: 5px;
+    font-size: 20px;
+    padding: 7px;
+}
+
+#home-screen, #guest-screen {
+    padding: 20px 15px;
+    text-align: center;
+    margin-left: 60px;
+    background: rgb(82, 73, 90);
+    border-radius: 10px;
+    font-size: 25px;
+    width: 5vh;
+  }
+
+#newgame {
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 25px;
+}
+
+#newgame:hover {
+        display: inline-block;
+        vertical-align: middle;
+        -webkit-transform: perspective(1px) translateZ(0);
+        transform: perspective(1px) translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+}
+
+.btn-n {
+    padding-top: 80px;
+    text-align: center;
+}
