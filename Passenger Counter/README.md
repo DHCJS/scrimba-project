@@ -1,6 +1,6 @@
 # Passenger Counter
 
-First project using JavaScript. Such a simple code yet so much fun. I implement my previous skills which is HTML and CSS to make it different from the default. Adding another decrement button which is additional from the project.
+First project using JavaScript. Such a simple code yet so much fun. I implement my previous skills which is HTML and CSS to make it different from the default. Adding another decrement button which is additional from the project. You can find more about it on [Netlify](https://stellar-toffee-b5c56a.netlify.app/)
 
 ## Lessons Learned
 
